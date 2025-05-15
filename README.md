@@ -33,7 +33,16 @@ A responsive and user-friendly dog adoption platform built as a take-home assess
 
 🚀 Deployed on: [https://priyam-02.github.io/dogLover/](https://priyam-02.github.io/dogLover/)
 
-📽️ Screenshots (optional):
+📽️ Screenshots:
+
+1. Login Page:
+<img width="1915" alt="Screenshot 2025-05-15 at 6 29 15 PM" src="https://github.com/user-attachments/assets/564fba1f-8e70-44b4-b2e2-6c7483d69851" />
+
+2. Search Page:
+<img width="1915" alt="Screenshot 2025-05-15 at 6 29 41 PM" src="https://github.com/user-attachments/assets/c2076bd4-ebb5-4abd-8558-a44f2632a836" />
+
+3. Match Page:
+<img width="1915" alt="Screenshot 2025-05-15 at 6 29 46 PM" src="https://github.com/user-attachments/assets/4b28058d-fc48-47e3-a4c6-6d549e4d9a95" />
 
 ---
 
