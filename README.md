@@ -31,7 +31,7 @@ A responsive and user-friendly dog adoption platform built as a take-home assess
 
 ## 🧪 Demo
 
-🚀 Deployed on: [https://your-deployment-link.com](https://your-deployment-link.com)
+🚀 Deployed on: [https://priyam-02.github.io/dogLover/](https://priyam-02.github.io/dogLover/)
 
 📽️ Screenshots (optional):
 
